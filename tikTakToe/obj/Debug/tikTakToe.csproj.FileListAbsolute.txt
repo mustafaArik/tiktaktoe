@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\bin\Debug\tikTakToe.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\bin\Debug\tikTakToe.exe
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\bin\Debug\tikTakToe.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\obj\Debug\tikTakToe.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\obj\Debug\tikTakToe.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\obj\Debug\tikTakToe.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\obj\Debug\tikTakToe.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\obj\Debug\tikTakToe.exe
+c:\users\administrator\documents\visual studio 2012\Projects\tikTakToe\tikTakToe\obj\Debug\tikTakToe.pdb

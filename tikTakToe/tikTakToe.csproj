@@ -90,6 +90,15 @@
   <ItemGroup>
     <None Include="Resources\Logo BW.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kazanan_o.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kazanan_x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kazanan Yok.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
